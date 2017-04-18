@@ -1,3 +1,1 @@
-My personal website that consists of my resume, skills, projects, and contact information. 
-
-Link: https://web.njit.edu/~jsd42/resume/index.html
+My personal website that consists of a comprehensive summary, skills, projects, and contact information. I used HTML, CSS, Javascript, and Bootstrap 3.  
